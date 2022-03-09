@@ -2,6 +2,7 @@
 
 int main(void)
 {
-	printf("testing code...\n");
+	printf("changed function.c");
+	printf("colin");
 	return 0;
 }
