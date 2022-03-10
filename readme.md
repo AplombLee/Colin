@@ -65,3 +65,16 @@ Github全球最大的项目托管网站<br>大量的开源工程企业级工程�
 Csgo|198|1
 Pubg|98|2
 LoL|218|3
+
+## 插入代码片段
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+//C语言代码
+int main(void)
+{
+	printf("testing code...\n");
+	return 0;
+}
