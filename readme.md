@@ -112,3 +112,6 @@ int main(void)
 
 [Bilibili](https://www.bilibili.com "Bilibili")
 
+## 文章中插入图片
+
+![icon](C://Users//86903//Desktop//icon.jpg "头像")
