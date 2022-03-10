@@ -114,4 +114,6 @@ int main(void)
 
 ## 文章中插入图片
 
-![icon](C://Users//86903//Desktop//icon.jpg "头像")
+**如果插入的图片是本地资源, 无法在GitHub上显示, 需要将本地图片上传并生成网络图片地址**
+)
+![icon.jpg](https://s2.loli.net/2022/03/10/TIY5ugh6kADjtBC.jpg)
